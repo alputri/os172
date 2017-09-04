@@ -1,1 +1,4 @@
 #alputri
+#In my opinion, we have to study OS because it will be useful for our journey to make a contribution to the world.
+#To make this world better or to influence the world of Internet, you should definitely know about a Operating System because tt's the base of everything.
+# Why is it the base? OS is the link between the hardware and the software. They ensure the different aspects of the computer work well together and can run together.
