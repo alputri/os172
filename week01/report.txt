@@ -1,0 +1,3 @@
+#alya_putri
+#On this week, we learned how to add, commit, push, and pull files and folders from local to repository in github, and vice versa
+#we also wrote about what we did on last week's assignment and why we should study OS in our opinion
