@@ -1,1 +1,5 @@
 #alya_putri
+#On last week, we were given multiple tasks.
+#First, we were instructed to make a Google Account and a GitHub Account
+#And then, we were told to make a repository named os172 in our GitHub
+#After reporting our google and github account, we were instructed to log onto kawung.cs.ui.ac.id
